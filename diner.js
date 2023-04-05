@@ -1,21 +1,3 @@
-/*Cree un menú Diner en JAVASCRIPT. Aquí están sus instrucciones para construir ese Diner.
-> Bottega Diner
-> Tenga el menú principal y un menú de acompañamientos
-Obtiene un plato principal y dos opciones de acompañamiento a un costo regular.
-- mostrarles todo el menú (imprimir)
-- Un usuario selecciona un plato principal.
-- "Camarera" hace un comentario basado en su selección:
-    el comentario puede ser una comparación de los dos elementos o un comentario aleatorio
-    extraído de una bóveda de comentarios.
-- Dígales el precio
-- repita las opciones anteriores para opciones adicionales (comentario y precio)
-- totalice el costo
-
-BONIFICACIÓN
-Tenga menú de desayuno, almuerzo y cena. El desayuno tiene diferentes artículos, el almuerzo y la cena tienen los mismos artículos pero tienen precios diferentes.
-
-BONIFICACIÓN: permite la personalización de artículos (cómo se preparan los artículos, decide las implicaciones de costos adicionales)*/
-
 const mainMenu = {
   'Cheeseburger': 12,
   'Bacon Cheeseburger': 15,
