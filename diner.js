@@ -35,7 +35,7 @@ const menuOne = (mainMenu) => {
     return Object.values(mainMenu)[3];
   }
   else {
-    prompt(`The menu is: ${Object.keys(mainMenu)}`).trim().toLowerCase();
+    prompt(`I'll be back when it's decided.`);
   }
 }
 
@@ -59,7 +59,7 @@ function sidesTwo(sides) {
     return Object.values(sides)[3];
   }
   else {
-    prompt(`Which would you like for your side? ${Object.keys(sides)}`).trim().toLowerCase();
+    prompt(`I'll be back when it's decided.`);
   }
 }
 
@@ -83,7 +83,7 @@ function sidesThree(sides) {
     return Object.values(sides)[3];
   }
   else {
-    prompt(`Which would you like for your side? ${Object.keys(sides)}`).trim().toLowerCase();
+    prompt(`I'll be back when it's decided.`);
   }
 }
 
