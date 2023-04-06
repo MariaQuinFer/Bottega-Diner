@@ -1,5 +1,5 @@
-# Ejercicio Codificación JavaScript
-> Crear un menú Diner en JAVASCRIPT siguiendo las siguientes intrucciones:
+# EJERCICIO DE CODIFICACIÓN
+## Crear un menú Diner en JAVASCRIPT siguiendo las siguientes intrucciones:
 * Bottega Diner.
 * Tenga el menú principal y un menú de acompañamientos.
 * Obtiener un plato principal y dos opciones de acompañamiento a un costo regular.
