@@ -11,3 +11,5 @@
 * Imprimir el precio.
 * Repetir las opciones anteriores para opciones adicionales (comentario y precio).
 * Totalizar el costo.
+
+> BONUS
